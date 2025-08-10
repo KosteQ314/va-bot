@@ -1,0 +1,14 @@
+{
+  "name": "va-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KosteQ314/va-bot",
+  "author": "kosteq <76442169+KosteQ314@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.54.0",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "node-fetch": "^3.3.2"
+  }
+}
