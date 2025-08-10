@@ -5,6 +5,10 @@
   "repository": "https://github.com/KosteQ314/va-bot",
   "author": "kosteq <76442169+KosteQ314@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo test test, I want to fly a plane",
+    "start": "node index.js"
+  },
   "dependencies": {
     "@supabase/supabase-js": "^2.54.0",
     "discord.js": "^14.21.0",
