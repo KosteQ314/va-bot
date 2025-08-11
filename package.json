@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "test": "echo test test, I want to fly a plane",
+    "deploy": "node deploy-commands.js",
     "start": "node index.js"
   },
   "dependencies": {
